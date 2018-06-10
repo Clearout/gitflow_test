@@ -1,1 +1,2 @@
 This is my new feature.
+This is another new feature.
